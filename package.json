@@ -1,0 +1,16 @@
+{
+  "name": "@sorafujitani/document-design-system",
+  "version": "0.1.0",
+  "description": "CSS for blogs and documentation, extracted from sorafujitani.me.",
+  "private": true,
+  "files": [
+    "tokens.css",
+    "theme.css",
+    "prose.css"
+  ],
+  "exports": {
+    "./tokens.css": "./tokens.css",
+    "./theme.css": "./theme.css",
+    "./prose.css": "./prose.css"
+  }
+}
